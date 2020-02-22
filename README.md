@@ -3,7 +3,7 @@
 ## About the module
 
 This module is designed to parse a .json file, and we do it by twitter API.
-we can scroll through the object of the file with:
+We can scroll through the object of the file with:
  - the words of the dictionary to go deeper;
  - the ```/``` button, to go back;
  - the ```*``` button, to quit from the file. 
